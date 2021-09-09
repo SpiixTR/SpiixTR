@@ -1,7 +1,7 @@
 ### Spiix
 
 [![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)][twitch]
-[![Discord](https://img.shields.io/discord/660606380650004490?label=Discord&logo=Discord)][discord]
+[![Discord](https://img.shields.io/discord/745703454214717600?label=Discord&logo=Discord)][discord]
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=SpiixTR&show_icons=true&count_private=true)
 
@@ -14,7 +14,7 @@
 
 <br />
 
-[discord]: https://discord.gg/qEWJNsP
+[discord]: https://discord.gg/6bPRvGwGyg
 [instagram]: https://www.instagram.com/burakacilanx/
 [twitch]: https://www.twitch.tv/SpiixTR
 [youtube]: https://www.youtube.com/channel/UC6TDGniyRS06r_NBdk3ZdlQ
